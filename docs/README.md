@@ -14,7 +14,7 @@
 | **Pull Request** | [https://github.com/pittsoccer/full-stack-tech-exam/pull/2](https://github.com/pittsoccer/full-stack-tech-exam/pull/2) | 
 | **Milestone** | [https://github.com/pittsoccer/full-stack-tech-exam/milestone/1](https://github.com/pittsoccer/full-stack-tech-exam/milestone/1) | 
 | **Successful CI/CD Action** | [https://github.com/pittsoccer/full-stack-tech-exam/actions/runs/23017309535](https://github.com/pittsoccer/full-stack-tech-exam/actions/runs/23017309535) | 
-| **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
+| **ssh cmd to your gcp** | `ssh -i student-key pittsoccer@8.228.8.228:3000` | 
 
 ---
 
