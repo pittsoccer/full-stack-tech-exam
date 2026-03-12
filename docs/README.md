@@ -10,7 +10,7 @@
 | **GitHub Pages (docs/)** | [https://pittsoccer.github.io/full-stack-tech-exam/](https://pittsoccer.github.io/full-stack-tech-exam/) | 
 | **Dev Server (Render)** | [https://full-stack-tech-exam-dev.onrender.com/](https://full-stack-tech-exam-dev.onrender.com/) | 
 | **Production Server (GCP)** | [http://8.228.8.228:3000](http://8.228.8.228:3000) | 
-| **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
+| **Issue** | [https://github.com/pittsoccer/full-stack-tech-exam/issues/1](https://github.com/pittsoccer/full-stack-tech-exam/issues/1) | 
 | **Pull Request** | [https://github.com/pittsoccer/full-stack-tech-exam/pull/2](https://github.com/pittsoccer/full-stack-tech-exam/pull/2) | 
 | **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
 | **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
