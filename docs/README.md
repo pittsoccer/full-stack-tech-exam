@@ -56,6 +56,9 @@
 
 ### 5️⃣ set up a `gcp` `compute engine` `vm instance`
 - config = firewall `http` & `https`, `static external ip` & requisite `ssh` public keys (including the `student-key.pub`)
+
+`student-key.pub # available on canvas`
+
 - `ssh` into the the vm `instance` 
 - update the `OS` & install the needed packages
 - initialize your repository (`git clone` in proper directory)
