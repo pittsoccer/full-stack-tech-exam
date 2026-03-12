@@ -13,7 +13,7 @@
 | **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
 | **Milestone** | [https://github.com/pittsoccer/full-stack-tech-exam/milestone/1](https://github.com/pittsoccer/full-stack-tech-exam/milestone/1) | 
-| **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
+| **Successful CI/CD Action** | [https://github.com/pittsoccer/full-stack-tech-exam/actions/runs/23017309535](https://github.com/pittsoccer/full-stack-tech-exam/actions/runs/23017309535) | 
 | **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
 
 ---
