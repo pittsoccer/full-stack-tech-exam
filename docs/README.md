@@ -10,8 +10,8 @@
 | **GitHub Pages (docs/)** | [https://pittsoccer.github.io/full-stack-tech-exam/](https://pittsoccer.github.io/full-stack-tech-exam/) | 
 | **Dev Server (Render)** | [https://full-stack-tech-exam-dev.onrender.com/](https://full-stack-tech-exam-dev.onrender.com/) | 
 | **Production Server (GCP)** | [http://8.228.8.228:3000](http://8.228.8.228:3000) | 
-| **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
-| **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
+| **Issue** | [https://github.com/pittsoccer/full-stack-tech-exam/issues/1](https://github.com/pittsoccer/full-stack-tech-exam/issues/1) | 
+| **Pull Request** | [https://github.com/pittsoccer/full-stack-tech-exam/pull/2](https://github.com/pittsoccer/full-stack-tech-exam/pull/2) | 
 | **Milestone** | [https://github.com/pittsoccer/full-stack-tech-exam/milestone/1](https://github.com/pittsoccer/full-stack-tech-exam/milestone/1) | 
 | **Successful CI/CD Action** | [https://github.com/pittsoccer/full-stack-tech-exam/actions/runs/23017309535](https://github.com/pittsoccer/full-stack-tech-exam/actions/runs/23017309535) | 
 | **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
