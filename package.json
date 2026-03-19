@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barrycumbie/full-stack-tech-exam.git"
+    "url": "git+https://github.com/pittsoccer/full-stack-tech-exam.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/barrycumbie/full-stack-tech-exam/issues"
+    "url": "https://github.com/pittsoccer/full-stack-tech-exam/issues"
   },
-  "homepage": "https://github.com/barrycumbie/full-stack-tech-exam#readme",
+  "homepage": "https://github.com/pittsoccer/full-stack-tech-exam#readme",
   "dependencies": {
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
